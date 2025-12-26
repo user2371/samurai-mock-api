@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Andrew",
+      "followed": false,
+      "status": "Frontend dev",
+      "photos": {
+        "small": "https://placehold.co/50",
+        "large": "https://placehold.co/200"
+      }
+    }
+  ],
+  "profiles": [
+    {
+      "id": 1,
+      "fullName": "Andrew Smith",
+      "aboutMe": "React dev",
+      "lookingForAJob": true,
+      "lookingForAJobDescription": "Frontend",
+      "contacts": {
+        "github": "https://github.com/andrew"
+      },
+      "photos": {
+        "small": "https://placehold.co/50",
+        "large": "https://placehold.co/200"
+      }
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "message": "Hello SamuraiJS",
+      "likesCount": 10
+    }
+  ],
+  "auth": {
+    "id": 1,
+    "email": "test@test.com",
+    "login": "samurai"
+  }
+}
