@@ -5,10 +5,7 @@
       "login": "user2371",
       "email": "someEmail@.ua",
       "isAuth": true
-    },
-    "messages": [],
-    "fieldsErrors": [],
-    "resultCode": 0
+    }
   },
   "users": [
     {
