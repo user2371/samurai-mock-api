@@ -235,16 +235,13 @@
       "followed": true
     }
   ],
+
   "profiles": [
     {
       "id": 1,
       "fullName": "Andrew Smith",
       "aboutMe": "React dev",
-      "lookingForAJob": true,
-      "lookingForAJobDescription": "Frontend",
-      "contacts": {
-        "github": "https://github.com/andrew"
-      },
+      "status": "Hello SamuraiJS 👋",
       "photos": {
         "small": "https://placehold.co/50",
         "large": "https://placehold.co/200"
