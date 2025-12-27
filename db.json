@@ -1,4 +1,15 @@
 {
+  "auth": {
+    "data": {
+      "id": 32414,
+      "login": "user2371",
+      "email": "someEmail@.ua",
+      "isAuth": true
+    },
+    "messages": [],
+    "fieldsErrors": [],
+    "resultCode": 0
+  },
   "items": [
     {
       "name": "Andrecky",
@@ -136,10 +147,5 @@
       "message": "Hello SamuraiJS",
       "likesCount": 10
     }
-  ],
-  "auth": {
-    "id": 1,
-    "email": "test@test.com",
-    "login": "samurai"
-  }
+  ]
 }
