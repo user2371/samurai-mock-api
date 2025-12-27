@@ -10,7 +10,7 @@
     "fieldsErrors": [],
     "resultCode": 0
   },
-  "items": [
+  "users": [
     {
       "name": "Andrecky",
       "id": 15,
@@ -122,8 +122,6 @@
       "followed": true
     }
   ],
-  "totalCount": 27724,
-  "error": null,
   "profiles": [
     {
       "id": 1,
