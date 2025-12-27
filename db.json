@@ -1,10 +1,12 @@
 {
   "auth": {
-    "data": {
-      "id": 32414,
-      "login": "user2371",
-      "email": "someEmail@.ua",
-      "isAuth": true
+    "me": {
+      "data": {
+        "id": 32414,
+        "login": "user2371",
+        "email": "someEmail@.ua",
+        "isAuth": true
+      }
     }
   },
   "users": [
