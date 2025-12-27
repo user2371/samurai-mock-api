@@ -1,12 +1,18 @@
 {
   "auth": {
-    "data": {
-      "id": 32414,
-      "login": "user2371",
-      "email": "someEmail@.ua",
-      "isAuth": true
-    }
+    "id": null,
+    "login": null,
+    "email": null,
+    "isAuth": false
   },
+  "usersCredentials": [
+    {
+      "id": 1,
+      "login": "admin",
+      "password": "123",
+      "email": "admin@samurai.dev"
+    }
+  ],
   "users": [
     {
       "name": "Andrecky",
