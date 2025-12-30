@@ -267,6 +267,26 @@
         "small": "https://placehold.co/50",
         "large": "https://placehold.co/200"
       }
+    },
+      {
+      "id": 2,
+      "fullName": "John 2",
+      "aboutMe": "React dev",
+      "status": "Hello SamuraiJS 👋",
+      "photos": {
+        "small": "https://placehold.co/50",
+        "large": "https://placehold.co/200"
+      }
+    },
+     {
+      "id": 2,
+      "fullName": "Dan 3",
+      "aboutMe": "React dev",
+      "status": "Hello SamuraiJS 👋",
+      "photos": {
+        "small": "https://placehold.co/50",
+        "large": "https://placehold.co/200"
+      }
     }
   ],
   "posts": [
