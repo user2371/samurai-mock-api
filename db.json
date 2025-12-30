@@ -270,7 +270,27 @@
     },
       {
       "id": 2,
-      "fullName": "John 2",
+      "fullName": "Andrecky",
+      "aboutMe": "React dev",
+      "status": "i'll be back",
+      "photos": {
+        "small": "https://placehold.co/50",
+        "large": "https://placehold.co/200"
+      }
+    },
+     {
+      "id": 3,
+      "fullName": "Den4ik",
+      "aboutMe": "React dev",
+      "status": "good mood👋",
+      "photos": {
+        "small": "https://placehold.co/50",
+        "large": "https://placehold.co/200"
+      }
+    },
+       {
+      "id": 4,
+      "fullName": "woafflation",
       "aboutMe": "React dev",
       "status": "Hello SamuraiJS 👋",
       "photos": {
@@ -278,16 +298,207 @@
         "large": "https://placehold.co/200"
       }
     },
+      {
+      "id": 5,
+      "fullName": "mahaha",
+      "aboutMe": "React dev",
+      "status": "I am good 👋",
+      "photos": {
+        "small": "https://placehold.co/50",
+        "large": "https://placehold.co/200"
+      }
+    },
      {
-      "id": 2,
-      "fullName": "Dan 3",
+      "id": 6,
+      "fullName": "Sol",
+      "aboutMe": "React dev",
+      "status": "Hell",
+      "photos": {
+        "small": "https://placehold.co/50",
+        "large": "https://placehold.co/200"
+      }
+    },
+        {
+      "id": 7,
+      "fullName": "Дмитрий Долидов",
+      "aboutMe": "React dev",
+      "status": "frontend разработчик",
+      "photos": {
+        "small": "https://placehold.co/50",
+        "large": "https://placehold.co/200"
+      }
+    },
+      {
+      "id": 8,
+      "fullName": "Jak Zigil`man",
+      "aboutMe": "React dev",
+      "status": "верните мой 2007",
+      "photos": {
+        "small": "https://placehold.co/50",
+        "large": "https://placehold.co/200"
+      }
+    },
+     {
+      "id": 9,
+      "fullName": "Nastya",
+      "aboutMe": "React dev",
+      "status": "аап",
+      "photos": {
+        "small": "https://placehold.co/50",
+        "large": "https://placehold.co/200"
+      }
+    },
+       {
+      "id": 10,
+      "fullName": "tinirait",
       "aboutMe": "React dev",
       "status": "Hello SamuraiJS 👋",
       "photos": {
         "small": "https://placehold.co/50",
         "large": "https://placehold.co/200"
       }
+    },
+      {
+      "id": 11,
+      "fullName": "mareena",
+      "aboutMe": "React dev",
+      "status": "I am good 👋",
+      "photos": {
+        "small": "https://placehold.co/50",
+        "large": "https://placehold.co/200"
+      }
+    },
+     {
+      "id": 12,
+      "fullName": "vedernikov",
+      "aboutMe": "React dev",
+      "status": "good mood👋",
+      "photos": {
+        "small": "https://placehold.co/50",
+        "large": "https://placehold.co/200"
+      }
+    },
+        {
+      "id": 13,
+      "fullName": "Sv3to4",
+      "aboutMe": "React dev",
+      "status": "Hello SamuraiJS 👋",
+      "photos": {
+        "small": "https://placehold.co/50",
+        "large": "https://placehold.co/200"
+      }
+    },
+      {
+      "id": 14,
+      "fullName": "Alekss",
+      "aboutMe": "React dev",
+      "status": "Good boy!!",
+      "photos": {
+        "small": "https://placehold.co/50",
+        "large": "https://placehold.co/200"
+      }
+    },
+     {
+      "id": 15,
+      "fullName": "NataliaFedotova",
+      "aboutMe": "React dev",
+      "status": "ddd",
+      "photos": {
+        "small": "https://placehold.co/50",
+        "large": "https://placehold.co/200"
+      }
+    },
+       {
+      "id": 16,
+      "fullName": "KamzeyevaAnastasiya",
+      "aboutMe": "React dev",
+      "status": "Hello SamuraiJS 👋",
+      "photos": {
+        "small": "https://placehold.co/50",
+        "large": "https://placehold.co/200"
+      }
+    },
+      {
+      "id": 17,
+      "fullName": "nikitik007",
+      "aboutMe": "React dev",
+      "status": "I am good 👋",
+      "photos": {
+        "small": "https://placehold.co/50",
+        "large": "https://placehold.co/200"
+      }
+    },
+     {
+      "id": 18,
+      "fullName": "sossisuka",
+      "aboutMe": "React dev",
+      "status": "good mood👋",
+      "photos": {
+        "small": "https://placehold.co/50",
+        "large": "https://placehold.co/200"
+      }
+    },
+        {
+      "id": 19,
+      "fullName": "dgdfg",
+      "aboutMe": "React dev",
+      "status": "test123!",
+      "photos": {
+        "small": "https://placehold.co/50",
+        "large": "https://placehold.co/200"
+      }
+    },
+      {
+      "id": 20,
+      "fullName": "Rustam",
+      "aboutMe": "React dev",
+      "status": "Hello my friend",
+      "photos": {
+        "small": "https://placehold.co/50",
+        "large": "https://placehold.co/200"
+      }
+    },
+     {
+      "id": 21,
+      "fullName": "Dan 3",
+      "aboutMe": "React dev",
+      "status": "good mood👋",
+      "photos": {
+        "small": "https://placehold.co/50",
+        "large": "https://placehold.co/200"
+      }
+    },
+       {
+      "id": 22,
+      "fullName": "kaleev",
+      "aboutMe": "React dev",
+      "status": "hgfhf111",
+      "photos": {
+        "small": "https://placehold.co/50",
+        "large": "https://placehold.co/200"
+      }
+    },
+      {
+      "id": 23,
+      "fullName": "tinirait",
+      "aboutMe": "React dev",
+      "status": "I am good 👋",
+      "photos": {
+        "small": "https://placehold.co/50",
+        "large": "https://placehold.co/200"
+      }
+    },
+     {
+      "id": 24,
+      "fullName": "mareena",
+      "aboutMe": "React dev",
+      "status": "good mood👋",
+      "photos": {
+        "small": "https://placehold.co/50",
+        "large": "https://placehold.co/200"
+      }
     }
+
   ],
   "posts": [
     {
