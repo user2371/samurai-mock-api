@@ -260,7 +260,7 @@
   "profiles": [
     {
       "id": 1,
-      "fullName": "Andrew Smith",
+      "fullName": "Some Name",
       "aboutMe": "React dev",
       "status": "Hello SamuraiJS 👋",
       "photos": {
